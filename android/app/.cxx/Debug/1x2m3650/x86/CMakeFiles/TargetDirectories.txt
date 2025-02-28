@@ -1,0 +1,2 @@
+D:/MentroVerse/android/app/.cxx/Debug/1x2m3650/x86/CMakeFiles/edit_cache.dir
+D:/MentroVerse/android/app/.cxx/Debug/1x2m3650/x86/CMakeFiles/rebuild_cache.dir
