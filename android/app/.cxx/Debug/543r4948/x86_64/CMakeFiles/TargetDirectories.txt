@@ -1,0 +1,2 @@
+E:/mentroverso/android/app/.cxx/Debug/543r4948/x86_64/CMakeFiles/edit_cache.dir
+E:/mentroverso/android/app/.cxx/Debug/543r4948/x86_64/CMakeFiles/rebuild_cache.dir
