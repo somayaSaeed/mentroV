@@ -1,0 +1,2 @@
+D:/mentroV/android/app/.cxx/Debug/43z236t5/x86/CMakeFiles/edit_cache.dir
+D:/mentroV/android/app/.cxx/Debug/43z236t5/x86/CMakeFiles/rebuild_cache.dir
